@@ -1,0 +1,68 @@
+
+
+
+
+OwnCompiler_Main PROC
+t1 = abcd>6.5
+t3 = 6<5
+t2 = t1&t3
+str = Syntax is Valid
+t4 = 4 * size_of_each_array_member
+value[t4] = str
+abcd = abcd + 5
+abcd = abcd + 1
+t4 = bis!=right
+dc = 0
+t5 = dc<10
+c = str
+OwnCompiler.abc = str
+d = 5.6
+a = 4.5
+dce = 5
+dc = 0
+t1 = dce<10
+
+lexical246_func_empty PROC
+
+dce = dce + 1
+dce = str
+bs = 4
+c = r
+d = 5.678
+bz = right
+t1 = bs+d
+t3 = c*c
+t4 = t3*d
+t2 = t1-t4
+t5 = t2+str
+t7 = c*d
+t6 = t5+t7
+cd = t6
+lexical246.b = a
+t8 = a==a
+t9 = and==1.2
+and = abc
+t11 = 2*3
+t10 = i+t11
+t12 = t10|b
+b = t12
+dec = 3.5
+str = abc
+Syntax_abc123_empty PROC
+
+a = 5.7
+a = a + 6.5
+t1 = 4+5
+myStruct_lexical_Integer PROC
+
+syntax.abc = str
+t2 = 6 * size_of_each_array_member
+t3 = syntax[t2]==5
+myStruct.c = 5_Integer PROC
+
+myStruct.d = 5.6_Integer PROC
+
+a = right
+t4 = 3 * size_of_each_array_member
+t5 = a[t4]-89
+a = t5
